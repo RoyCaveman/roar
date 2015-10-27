@@ -1,3 +1,3 @@
 Este post es prueba
 
-[Regresar al Inicio](../Readme.md)
+[Regresar al Inicio](https://github.com/punkee/roar/README.md)
