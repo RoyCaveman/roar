@@ -1,10 +1,8 @@
 
-#Roar Bang
+#Roar!
 
 
 <p align="center">
-<h2>ROAR!</h2>
-<br>
 <b>Alguna pendejada que hace algo</b><br>
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="88" alt="licence">
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="88" alt="public">
