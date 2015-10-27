@@ -1,5 +1,8 @@
-<p align="center">#ROAR!
-Alguna pendejada que hace algo
+
+<p align="center">
+#ROAR!
+<br>
+Alguna pendejada que hace algo<br>
 
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="88" alt="public">
