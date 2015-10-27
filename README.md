@@ -1,7 +1,7 @@
-# roar-bang
+<p align="center">#ROAR!
 Alguna pendejada que hace algo
 
-<p align="center">
+
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="88" alt="public">
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="88" alt="licence">
 </p>
