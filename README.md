@@ -1,10 +1,10 @@
 # roar-bang
 Alguna pendejada que hace algo
 
-<center>
+<p align="center">
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" width="88" alt="public">
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="88" alt="licence">
-</center>
+</p>
 
 
 Art by Punkee
