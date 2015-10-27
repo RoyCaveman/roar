@@ -1,7 +1,7 @@
 
 #Roar! El blog (oficial) de Rodrigo
 
-<p align="right">Sigueme en mi RSS para saber estar actualizado <a href="https://github.com/punkee.atom"><img src="http://icons.iconarchive.com/icons/tatice/cristal-intense/128/RSS-icon.png" width="20px"></a></p>
+<p align="right">Sigueme en mi RSS para estar actualizado <a href="https://github.com/punkee.atom"><img src="http://icons.iconarchive.com/icons/tatice/cristal-intense/128/RSS-icon.png" width="20px"></a></p>
 <br> <br> <br>
 <p align="center">
 <b>Alguna pendejada que hace algo</b><br>
